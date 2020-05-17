@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1577146307 source:d:\Учеба\проги\strings\remove.cpp
+	"remove_space.h"
+
+1577144699 d:\Учеба\проги\strings\remove_space.h
+	<iostream>
+	<string>
+
+1577146351 source:d:\Учеба\проги\strings\remove_space.cpp
+	"remove_space.h"
+
